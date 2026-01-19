@@ -1,6 +1,6 @@
-# ClinicaGuard AI Pro
+# ClinicaGuard AI 
 
-ClinicaGuard AI Pro is a clinical risk assessment and decision-support application built to help visualize and understand diabetes risk using patient health data. It combines a trained ML model with an interactive Streamlit dashboard to make risk insights easier to interpret for both technical and non-technical users.
+ClinicaGuard AI  is a clinical risk assessment and decision-support application built to help visualize and understand diabetes risk using patient health data. It combines a trained ML model with an interactive Streamlit dashboard to make risk insights easier to interpret for both technical and non-technical users.
 
 ---
 
@@ -94,7 +94,7 @@ streamlit run backend/app.py
 ⚠️ Clinical Disclaimer
 
 This system is not a diagnostic tool.
-ClinicaGuard AI Pro is intended for:
+ClinicaGuard AI  is intended for:
 Educational use
 Risk awareness
 Decision support
@@ -102,10 +102,3 @@ All outputs must be interpreted by qualified healthcare professionals alongside 
 
 
 
-🚀 Why this project stands out
-
-Focuses on interpretability, not just predictions
-Designed like a real clinical dashboard
-Emphasizes responsible AI usage
-Built with production-style structure and UI discipline
-Easy for judges and reviewers to understand
