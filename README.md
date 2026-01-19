@@ -19,7 +19,7 @@ ClinicaGuard AI  is a clinical risk assessment and decision-support application 
 
  🧠 Model & Logic
 
-- Uses a trained machine learning classification model (`model.pkl`)
+- Uses a trained machine learning classification model   (`model.pkl`)
 - Categorical inputs (gender, smoking history) are handled via label encoders
 - Produces a probability score (not a simple yes/no)
 - Risk categories:
