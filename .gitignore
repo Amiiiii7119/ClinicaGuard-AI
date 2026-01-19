@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Machine learning models
+*.pkl
+
+# Generated data
+*.csv
+
+# Environment variables
+.env
