@@ -63,9 +63,10 @@ data = data.drop_duplicates()
 
 # Normalize inconsistent smoking history values
 data["smoking_history"] = data["smoking_history"].replace(
-    ["No Info", "no info", "None", None],
+    ["No Info", "no info", "None"],
     "unknown"
 )
+data["smoking_history"] = data["smoking_history"].fillna("unknown")
 
 
 # --------------------------------------------------
